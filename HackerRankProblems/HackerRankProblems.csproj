@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SherlockAnddSquares.cs" />
     <None Include="LovLetter.cs" />
     <None Include="SolveMeFirst.cs" />
     <None Include="MaximizingXOR.cs" />
@@ -51,7 +52,7 @@
     <None Include="FindDigits.cs" />
     <None Include="IsFibo.cs" />
     <None Include="AngryChildren.cs" />
-    <Compile Include="AlgorithmicCrush.cs" />
+    <None Include="AlgorithmicCrush.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
