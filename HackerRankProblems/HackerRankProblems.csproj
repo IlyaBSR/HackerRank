@@ -41,7 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SherlockAnddSquares.cs" />
+    <None Include="SherlockAnddSquares.cs" />
+    <Compile Include="StrangeNumbers.cs" />
     <None Include="LovLetter.cs" />
     <None Include="SolveMeFirst.cs" />
     <None Include="MaximizingXOR.cs" />
